@@ -21,7 +21,7 @@ Vi velger verktøy, ikke trender. Vi velger det som gjør oss raske og frie – 
 
 Frihet først, leverandør sist. Åpen kildekode er et middel, men frihet er målet. Vi vil ha kontroll på stacken vår, våre data og våre beslutninger.
 
-Dette prinsippet gjennomsyrer også vår datastrategi: Vi unngår leverandørlåste datavarehus som BigQuery, Redshift og Snowflake. I stedet bruker vi åpne verktøy som **DuckDB** og **dbt** for å skape åpne data-produkter, renset for PII, og representert i standardisert **Parquet-format**. Distribusjonskanalene kan byttes ut uten å endre fundamentet.  
+Dette prinsippet gjennomsyrer også vår datastrategi: Vi unngår leverandørlåste datavarehus som setter opp "takstametere" for å leie våre egne data, en kostbar binding til én skyplattform. I stedet bruker vi åpne verktøy som **DuckDB** og **dbt** for å skape åpne data-produkter, renset for PII, og representert i standardisert **Parquet-format**. Distribusjonskanalene kan byttes ut uten å endre fundamentet.  
 
 **Vi bygger et fundament som kan vare.**
 
